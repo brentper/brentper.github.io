@@ -1,5 +1,3 @@
-﻿KillThatProcess notepad
-
 Function KillThatProcess([string] $process)
 {
     $allProcesses = Get-Process $process
@@ -23,8 +21,6 @@ Function KillThatProcess([string] $process)
 
     
 }
-
-Bamboozle 
 
 Function Bamboozle($path = (Get-Location))
 {
