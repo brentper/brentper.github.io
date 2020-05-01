@@ -1,11 +1,10 @@
 * {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-
 }
 
 body{
-    background-color: #f2f9ff;
+    background-color: #ffffff;
 }
 
 nav {
@@ -41,5 +40,39 @@ nav li a {
 
 nav li a:hover {
     color: #ffffff7c;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+main h1 {
+    font-family: 'Raleway', sans-serif;
+    margin: 70px 0 50px;
+    font-weight: lighter;
+    font-size: 60px;
+}
+
+.bio_container {
+    border: solid;
+    border-color: #304779;
+    display: flex;
+    align-items: center;
+    width: 800px;
+    height: 320px;
+}
+
+.bio_container img {
+    height: 200px;
+    margin-left: 50px;
+}
+
+.bio_text {
+    margin: 0 50px;
+    text-align: justify;
+    line-height: 1.5em;
+    color: #2b2b2b;
 }
 
