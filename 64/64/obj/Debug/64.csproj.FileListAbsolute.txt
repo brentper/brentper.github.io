@@ -1,0 +1,6 @@
+C:\Users\Brent\Documents\64\64\bin\Debug\64.exe.config
+C:\Users\Brent\Documents\64\64\bin\Debug\64.exe
+C:\Users\Brent\Documents\64\64\bin\Debug\64.pdb
+C:\Users\Brent\Documents\64\64\obj\Debug\64.csprojAssemblyReference.cache
+C:\Users\Brent\Documents\64\64\obj\Debug\64.exe
+C:\Users\Brent\Documents\64\64\obj\Debug\64.pdb
