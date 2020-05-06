@@ -98,7 +98,7 @@ main h1 {
     width: 20%;
 }
 
-.img, .description, .download {
+.img, .description, .download, .download a {
     display: flex;
     justify-content: center;
     align-items: center;
