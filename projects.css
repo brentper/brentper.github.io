@@ -60,7 +60,7 @@ main h1 {
     border-color: #304779;
     width: 800px;
     display: grid;
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(5, 1fr);
     row-gap: 50px;
 }
