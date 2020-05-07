@@ -16,11 +16,12 @@ nav {
     margin: auto;
 }
 
-nav h3 {
+nav a {
     color: #ffffff;
     font-size: 25px;
     position: relative;
-    right: 28%;
+    right: 25%;
+    text-decoration: none;
 }
 
 nav ul {
